@@ -1,0 +1,10 @@
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\bin\Debug\ChangeLanguage.exe.config
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\bin\Debug\ChangeLanguage.exe
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\bin\Debug\ChangeLanguage.pdb
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.csprojAssemblyReference.cache
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.Properties.Resources.resources
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.csproj.GenerateResource.cache
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.exe
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.pdb
+C:\Users\Duck 10\source\repos\ChangeLanguage\ChangeLanguage\obj\Debug\ChangeLanguage.TsGUI.resources
